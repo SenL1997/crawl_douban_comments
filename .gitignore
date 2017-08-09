@@ -1,0 +1,7 @@
+/ltp_data/*
+*.png
+*.txt
+*.log
+.idea
+*.TTF
+.vscode

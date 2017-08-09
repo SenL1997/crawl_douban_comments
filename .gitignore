@@ -1,5 +1,6 @@
 /ltp_data/*
 *.png
+*.jpg
 *.txt
 *.log
 .idea

@@ -1,5 +1,5 @@
 import os
-from pyltp import Segmentor, SentenceSplitter
+from pyltp import Segmentor
 import codecs
 
 

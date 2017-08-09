@@ -21,9 +21,9 @@ def login(session):
     driver = webdriver.Chrome()
     driver.get('https://www.douban.com/accounts/login?source=movie')
     elem = driver.find_element_by_id('email')
-    elem.send_keys('13162054619@163.com')
+    elem.send_keys('***')
     elem = driver.find_element_by_id('password')
-    elem.send_keys('qw1322li')
+    elem.send_keys('***')
     try:
         elem = driver.find_element_by_id('captcha_field')
         # text = input()

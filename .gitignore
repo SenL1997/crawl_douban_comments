@@ -5,3 +5,4 @@
 .idea
 *.TTF
 .vscode
+!/image/*

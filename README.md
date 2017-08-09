@@ -10,3 +10,4 @@
 - 运行crawl_raw.py如果出现验证码需自行输入然后手动登录
 ## 图片示例:
 ![avatar](https://github.com/SenL1997/crawl_douban_comments/raw/master/image/Figure.png)
+![avatar](https://github.com/SenL1997/crawl_douban_comments/raw/master/image/Figure_1.png)
